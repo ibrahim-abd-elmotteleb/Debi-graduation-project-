@@ -1,0 +1,10 @@
+flask
+streamlit
+transformers
+torch
+joblib
+emoji
+nltk
+qalsadi
+requests
+scikit-learn
